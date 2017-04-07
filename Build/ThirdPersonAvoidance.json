@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ThirdPersonAvoidance.data.unityweb",
+"asmCodeUrl": "ThirdPersonAvoidance.asm.code.unityweb",
+"asmMemoryUrl": "ThirdPersonAvoidance.asm.memory.unityweb",
+"asmFrameworkUrl": "ThirdPersonAvoidance.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
